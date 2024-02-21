@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: PROJECT
+  cloud:
+    vault:
+      enabled: false
